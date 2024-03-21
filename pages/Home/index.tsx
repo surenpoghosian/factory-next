@@ -19,7 +19,7 @@ const HomePage = () => {
       </div>
       
       {selectedShape && (
-        <div className='w-64 flex flex-col items-center justify-center'>
+        <div className='w-32 flex flex-col items-center justify-center'>
           <h2>Selected Shape</h2>
           {ShapeFactory.createShape(selectedShape).draw()}
         </div>
