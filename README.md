@@ -1,19 +1,18 @@
+## FACTORY DESIGN PATTERN | NEXT JS
+![structure](https://github.com/surenpoghosian/factory-next/assets/56313895/dd8cc0c5-c6c3-40d4-adfd-08c469037e18)
+
 This is a [FACTORY Pattern](https://refactoring.guru/design-patterns/factory-method)
 
-## FACTORY DESIGN PATTERN | NEXT JS
+
+
+
+## NEXT.JS instructions
 
 First, run the development server:
 
 ```bash
 npm run dev
 ```
-![structure](https://github.com/surenpoghosian/factory-next/assets/56313895/dd8cc0c5-c6c3-40d4-adfd-08c469037e18)
-
-
-
-
-
-
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
