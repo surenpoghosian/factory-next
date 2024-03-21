@@ -1,18 +1,19 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [FACTORY Pattern](https://refactoring.guru/design-patterns/factory-method)
 
-## Getting Started
+## FACTORY DESIGN PATTERN | NEXT JS
 
 First, run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
+![structure](https://github.com/surenpoghosian/factory-next/assets/56313895/dd8cc0c5-c6c3-40d4-adfd-08c469037e18)
+
+
+
+
+
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
